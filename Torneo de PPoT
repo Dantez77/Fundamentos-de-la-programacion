@@ -2,6 +2,7 @@
 using namespace std;
 main(){
   cout<<"\t!Torneo Mundial de Piedra, Papel o Tijera!"<<endl;
+  cout<<"Ingrese el numero de personas que participaran: "<<endl;
 
   return 0;
 }
